@@ -146,7 +146,7 @@
   parent: BaseImplantOnlyImplanter
   components:
     - type: Implanter
-      implant: LightImplant
+      implant: LimboImplant
 
 - type: entity
   id: BikeHornImplanter
