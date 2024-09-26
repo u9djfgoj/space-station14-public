@@ -141,6 +141,14 @@
       implant: LightImplant
 
 - type: entity
+  id: LimboImplanter
+  name: limbo implanter
+  parent: BaseImplantOnlyImplanter
+  components:
+    - type: Implanter
+      implant: LightImplant
+
+- type: entity
   id: BikeHornImplanter
   name: bike horn implanter
   parent: BaseImplantOnlyImplanter
